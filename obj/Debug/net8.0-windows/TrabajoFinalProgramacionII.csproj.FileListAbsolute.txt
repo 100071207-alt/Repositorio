@@ -1,0 +1,14 @@
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\TrabajoFinalProgramacionII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\TrabajoFinalProgramacionII.AssemblyInfoInputs.cache
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\TrabajoFinalProgramacionII.AssemblyInfo.cs
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\TrabajoFinalProgramacionII.csproj.CoreCompileInputs.cache
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\bin\Debug\net8.0-windows\TrabajoFinalProgramacionII.exe
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\bin\Debug\net8.0-windows\TrabajoFinalProgramacionII.deps.json
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\bin\Debug\net8.0-windows\TrabajoFinalProgramacionII.runtimeconfig.json
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\bin\Debug\net8.0-windows\TrabajoFinalProgramacionII.dll
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\bin\Debug\net8.0-windows\TrabajoFinalProgramacionII.pdb
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\TrabajoFinalProgramacionII.dll
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\refint\TrabajoFinalProgramacionII.dll
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\TrabajoFinalProgramacionII.pdb
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\TrabajoFinalProgramacionII.genruntimeconfig.cache
+C:\Users\Jose A Rojas\OneDrive\Desktop\TrabajoFinalProgramacionII\obj\Debug\net8.0-windows\ref\TrabajoFinalProgramacionII.dll
